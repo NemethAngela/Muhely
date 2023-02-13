@@ -1,0 +1,4 @@
+Nissan;piros;1997
+Merci;szürke;2016
+Suzuki;zöld;2003
+Skoda;fehér;2000
